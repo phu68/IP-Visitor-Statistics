@@ -2,7 +2,7 @@
 /**
  * Plugin Name: IP Visitor Statistics
  * Description: Thống kê IP truy cập theo nhiều khoảng thời gian với bộ lọc URL và sắp xếp.
- * Version: 1.9
+ * Version: 1.10
  * Author: Phạm Phú
  */
 
